@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.1_242b3b44dbdd2f5caa2b5604a5886a59190abb8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\.android\build-cache\e3d7f85136354709ca761f08d086c2f23d14ee5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e7ce463183bac12d4f568790c173a416289b003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\.android\build-cache\cf9158dd70f97b748e70272f33d72a0b1778e7df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a67a98ba67a8a08bce051cb3e2b81403e2df99fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\.android\build-cache\1e9c6189a4cb6c4860550a37e5fe664e4023ebe5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_429c4a4c626b8c444ee552e0c6d29cb8b2c0e2f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\.android\build-cache\1b6e1c28bccf77e0a5262c80d545331e91da66ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60a26c5ab550ffb60d09639fb9f55705d34a8541\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_1654ed2cc4b37a2b9c97866282c94f0b975f513a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\.android\build-cache\864bc3a6b775e845bbbec14ade169be257b7d1f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_385efc866095cac904dab66feee315da28d54009\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5ef449eb94c65cb6a3f4d5e5c82807ff5ce3adb">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e740a6f978dbbe90320b1cd0e9af22e8c03f33c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\.android\build-cache\4cf2f048ac584d4dece612394747ddeaf9e434c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c16a2ce1e8dade0a38c6796861bb832907b99a82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_643fd295663b90c1a68ce11fbcdca28c4fd6c283\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\.android\build-cache\04a7efeacc309079147abe42d026ce6343065c13\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afd041223d57705e4b52898a7c46e9ea333bc71f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\.android\build-cache\ba2230270fdb146533e0872d85c3c18657d46d26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0599fada3088ee8322a418c249dd3cbca9a21363\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\.android\build-cache\8292a591ba19ee1cb37a8d559b5d2cf3d9a72064\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_354bb25f307f767d0965bede4c15351d1a767b8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\slots-nb-03\.android\build-cache\a944717476ed8d96f8d5a499f5e487c6f0eb09f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\slots-nb-03\AndroidStudioProjects\android-ndk\native-activity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5a42a820a30e86e87ae940ad16e68319523e59c\classes.dex" />
+    </item>
+
+</items>

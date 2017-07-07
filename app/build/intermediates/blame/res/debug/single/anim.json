@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\slots-nb-03\\AndroidStudioProjects\\android-ndk\\native-activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\slots-nb-03\\.android\\build-cache\\e3d7f85136354709ca761f08d086c2f23d14ee5b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\slots-nb-03\\AndroidStudioProjects\\android-ndk\\native-activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\slots-nb-03\\.android\\build-cache\\e3d7f85136354709ca761f08d086c2f23d14ee5b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\slots-nb-03\\AndroidStudioProjects\\android-ndk\\native-activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\slots-nb-03\\.android\\build-cache\\e3d7f85136354709ca761f08d086c2f23d14ee5b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\slots-nb-03\\AndroidStudioProjects\\android-ndk\\native-activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\slots-nb-03\\.android\\build-cache\\e3d7f85136354709ca761f08d086c2f23d14ee5b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\slots-nb-03\\AndroidStudioProjects\\android-ndk\\native-activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\slots-nb-03\\.android\\build-cache\\e3d7f85136354709ca761f08d086c2f23d14ee5b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\slots-nb-03\\AndroidStudioProjects\\android-ndk\\native-activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\slots-nb-03\\.android\\build-cache\\e3d7f85136354709ca761f08d086c2f23d14ee5b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\slots-nb-03\\AndroidStudioProjects\\android-ndk\\native-activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\slots-nb-03\\.android\\build-cache\\e3d7f85136354709ca761f08d086c2f23d14ee5b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\slots-nb-03\\AndroidStudioProjects\\android-ndk\\native-activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\slots-nb-03\\.android\\build-cache\\e3d7f85136354709ca761f08d086c2f23d14ee5b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\slots-nb-03\\AndroidStudioProjects\\android-ndk\\native-activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\slots-nb-03\\.android\\build-cache\\e3d7f85136354709ca761f08d086c2f23d14ee5b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\slots-nb-03\\AndroidStudioProjects\\android-ndk\\native-activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\slots-nb-03\\.android\\build-cache\\e3d7f85136354709ca761f08d086c2f23d14ee5b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

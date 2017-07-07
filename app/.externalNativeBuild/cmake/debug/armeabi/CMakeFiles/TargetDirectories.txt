@@ -1,0 +1,4 @@
+C:/Users/slots-nb-03/AndroidStudioProjects/android-ndk/native-activity/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/native_app_glue.dir
+C:/Users/slots-nb-03/AndroidStudioProjects/android-ndk/native-activity/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/native-activity.dir
+C:/Users/slots-nb-03/AndroidStudioProjects/android-ndk/native-activity/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/edit_cache.dir
+C:/Users/slots-nb-03/AndroidStudioProjects/android-ndk/native-activity/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/rebuild_cache.dir
